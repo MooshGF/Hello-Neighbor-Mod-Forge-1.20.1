@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hellodecorate:block/whndemo" },
+    "facing=east":  { "model": "hellodecorate:block/whndemo", "y": 90 },
+    "facing=south": { "model": "hellodecorate:block/whndemo", "y": 180 },
+    "facing=west":  { "model": "hellodecorate:block/whndemo", "y": 270 }
+  }
+}
